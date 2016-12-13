@@ -1,0 +1,11 @@
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.Model\bin\Debug\Dapper.Model.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.Model\bin\Debug\Dapper.Model.pdb
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.Model\obj\Debug\Dapper.Model.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.Model\obj\Debug\Dapper.Model.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\bin\Debug\Dapper.Model.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\bin\Debug\Dapper.Model.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\bin\Debug\DapperExtensions.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\bin\Debug\DapperExtensions.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\obj\Debug\Dapper.Model.csprojResolveAssemblyReference.cache
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\obj\Debug\Dapper.Model.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\obj\Debug\Dapper.Model.pdb

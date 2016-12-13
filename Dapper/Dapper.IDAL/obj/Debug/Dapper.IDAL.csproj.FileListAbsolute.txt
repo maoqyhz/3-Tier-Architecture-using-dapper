@@ -1,0 +1,16 @@
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.IDAL\bin\Debug\Dapper.IDAL.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.IDAL\bin\Debug\Dapper.IDAL.pdb
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.IDAL\bin\Debug\Dapper.Model.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.IDAL\bin\Debug\Dapper.Model.pdb
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.csprojResolveAssemblyReference.cache
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\bin\Debug\Dapper.IDAL.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\bin\Debug\Dapper.IDAL.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\bin\Debug\Dapper.Model.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\bin\Debug\DapperExtensions.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\bin\Debug\Dapper.Model.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\bin\Debug\DapperExtensions.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.csprojResolveAssemblyReference.cache
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.pdb

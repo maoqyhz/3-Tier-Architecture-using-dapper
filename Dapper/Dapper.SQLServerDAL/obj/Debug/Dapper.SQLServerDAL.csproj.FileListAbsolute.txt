@@ -1,0 +1,30 @@
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.SQLServerDAL.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.SQLServerDAL.pdb
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.Factory.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.IDAL.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.Model.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.Factory.pdb
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.IDAL.pdb
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.Model.pdb
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.pdb
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.xml
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\obj\Debug\Dapper.SQLServerDAL.csprojResolveAssemblyReference.cache
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\obj\Debug\Dapper.SQLServerDAL.dll
+F:\Workspace\visual studio 2012\Projects\Dapper\Dapper.SQLServerDAL\obj\Debug\Dapper.SQLServerDAL.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.SQLServerDAL.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.SQLServerDAL.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.Factory.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.IDAL.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.Model.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\DapperExtensions.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.Factory.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.IDAL.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.Model.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\Dapper.xml
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\bin\Debug\DapperExtensions.pdb
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\obj\Debug\Dapper.SQLServerDAL.csprojResolveAssemblyReference.cache
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\obj\Debug\Dapper.SQLServerDAL.dll
+F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.SQLServerDAL\obj\Debug\Dapper.SQLServerDAL.pdb

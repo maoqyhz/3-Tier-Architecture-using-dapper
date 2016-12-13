@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7BA315E4-1DAD-44AF-B026-51478A1BDDD3}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dapper.Console</RootNamespace>
+    <AssemblyName>Dapper.Console</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DapperExtensions, Version=1.4.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DapperExtensions.1.4.4\lib\net40\DapperExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dapper.BLL\Dapper.BLL.csproj">
+      <Project>{ce980ee9-f104-448e-8698-8d6721b838dd}</Project>
+      <Name>Dapper.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dapper.Factory\Dapper.Factory.csproj">
+      <Project>{7e9067d2-1ecd-4c29-9b0e-97de6285188e}</Project>
+      <Name>Dapper.Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dapper.IBLL\Dapper.IBLL.csproj">
+      <Project>{a57f9509-9d72-4826-b69b-e71e51bc141e}</Project>
+      <Name>Dapper.IBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dapper.IDAL\Dapper.IDAL.csproj">
+      <Project>{33f17117-1bc9-416f-bfed-70393c8dae54}</Project>
+      <Name>Dapper.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dapper.Model\Dapper.Model.csproj">
+      <Project>{df4d28f8-8ec5-436a-8aba-ab52875dfcb3}</Project>
+      <Name>Dapper.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dapper.SQLServerDAL\Dapper.SQLServerDAL.csproj">
+      <Project>{3651cb78-6f6e-4176-be83-b98ccc28c72d}</Project>
+      <Name>Dapper.SQLServerDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
