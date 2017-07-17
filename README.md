@@ -4,20 +4,20 @@ using StackExchange/dapper-dot-net to develop 3-Tier Architecture. Just a simple
 
 A simple 3-tier architecture using the Dapper relational object mapper.
 
-Dapper：a simple object mapper for .Net developed by Stackexchange.
+- Dapper：a simple object mapper for .Net developed by Stackexchange.
 
-Dapper-Extensions:Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. 
+- Dapper-Extensions:Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. 
 
 ## UI layer：
 Dapper.Console：A simple console program act as UI layer.
 
 ## Business logic layer：
-Dapper.IBLL：BLL's abstract interface.
-Dapper.BLL：BLL's implementation。（call different DAL layers depending on the configuration file）
+- Dapper.IBLL：BLL's abstract interface.
+- Dapper.BLL：BLL's implementation。（call different DAL layers depending on the configuration file）
 
 ## Data access layer：
-Dapper.IDAL：DAL's abstract interface.
-Dapper.SQLServerDAL：Implementation of different databases，derived from IDAL interface.
+- Dapper.IDAL：DAL's abstract interface.
+- Dapper.SQLServerDAL：Implementation of different databases，derived from IDAL interface.
 
 ## Entity ：
 Dapper.Model：database model.
