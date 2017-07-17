@@ -1,30 +1,30 @@
-#3-Tier-Architecture-using-dapper
+# 3-Tier-Architecture-using-dapper
 
 using StackExchange/dapper-dot-net to develop 3-Tier Architecture. Just a simple example in study.
 
-利用Dapper关系对象映射器写的简单的三层架构。
+A simple 3-tier architecture using the Dapper relational object mapper.
 
-Dapper：StackOverFlow在使用的一个微型的ORM，框架整体效率较高，轻量级的ORM框架。网上有较多的扩展。此处只是简单的调用Dapper中的方法。
+Dapper：a simple object mapper for .Net developed by Stackexchange.
 
-Dapper-Extensions:基于dapper扩展的CRUD的操作类库，使用一些简单的CRUD操作时可是直接使用该类库。
+Dapper-Extensions:Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. 
 
-##UI层：
-Dapper.Console：一个简单的控制台程序。
+## UI layer：
+Dapper.Console：A simple console program act as UI layer.
 
-##BLL业务逻辑层：
-Dapper.IBLL：业务逻辑层的抽象接口。
-Dapper.BLL：业务逻辑层的具体实现。（会根据配置文件的不同调用不同的DAL层）
+## Business logic layer：
+Dapper.IBLL：BLL's abstract interface.
+Dapper.BLL：BLL's implementation。（call different DAL layers depending on the configuration file）
 
-##DAL数据访问层：
-Dapper.IDAL：数据访问层的抽象接口。利于程序的扩展。
-Dapper.SQLServerDAL：不同数据库的实现层，派生自IDAL接口。（可能还有OracleDAL、MySQLDAL等等）
+## Data access layer：
+Dapper.IDAL：DAL's abstract interface.
+Dapper.SQLServerDAL：Implementation of different databases，derived from IDAL interface.
 
-##实体类：
-Dapper.Model：数据库实体类
+## Entity ：
+Dapper.Model：database model.
 
-##解耦:
-Dapper.Factory：工厂。通过工厂来创建对应的实例。DALFactory创建具体的DAL，ConnectionFactory创建供Dapper使用的IDBConnection实例。
+## Decoupling :
+Dapper.Factory：factory.Create a corresponding instance from the factory。DALFactory create concrete DAL.
 
-##单元测试：
-Dapper.Test：进行数据库的单元测试。单元测试项目中无法直接读取Dapper.Console下的App.config。复制过来即可。
-			需要Mock测试的，可以参考使用MS Fakes、Moq等测试框架。
+## Unit test：
+Dapper.Test：Perform a unit test for the database. Unit test project can not directly read Dapper.Console *App.config*. Copy it over.
+Need to Mock test, you can refer to the use of MS Fakes, Moq and other test framework.
